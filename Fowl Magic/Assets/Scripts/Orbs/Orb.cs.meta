@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: f9946d1f80c05854ca2be0f0f152315c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Combiner: {instanceID: 0}
+  - GreyMatterSpirte: {fileID: 21300000, guid: 9e12d5ca2913c9341b1c616afb86b25f, type: 3}
+  - FireSprite: {fileID: 21300000, guid: 0de5f7a6b43c31047a550ab226aed3c5, type: 3}
+  - WaterSprite: {fileID: 21300000, guid: 62558572a9dff47409b159113f01beda, type: 3}
+  - AirSprite: {fileID: 21300000, guid: a76304077d31fcc4cb8fce0a2e1da29e, type: 3}
+  - PlantSprite: {fileID: 21300000, guid: 75c20f0d0b2275e44b53d62416fb3bad, type: 3}
+  - CinderSprite: {fileID: 21300000, guid: f126139557880a94ba70d9e8e8c29905, type: 3}
+  - LavaSprite: {fileID: 21300000, guid: 11999b4e77810414b8c0193b6ff5e3e5, type: 3}
+  - RainSprite: {fileID: 21300000, guid: ff6fdf8173a99e046b32ce370911963a, type: 3}
+  - SwampSprite: {fileID: 21300000, guid: 6b3efe8ee89944c479e249d0e681c1cb, type: 3}
+  - MysticSprite: {fileID: 21300000, guid: 7451e3aa6d8d1014fa5775ea74c6d051, type: 3}
+  - SparkSprite: {fileID: 21300000, guid: bf9df7c8c0ee6fe4fbfc80295f0e3a00, type: 3}
+  - ObsidianSprite: {fileID: 21300000, guid: dd1e1c0ac2ec4954e8e0919622b7f1ca, type: 3}
+  - UrbanSprite: {fileID: 21300000, guid: 5154adf7fb0f29247b037fef6ae1457f, type: 3}
+  - EntropySprite: {fileID: 21300000, guid: ff65dbb0c65867543b43b5b56aa53613, type: 3}
+  - OrderSprite: {fileID: 21300000, guid: 7f7a1e4dc3ce534429ce20413dabeb86, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
